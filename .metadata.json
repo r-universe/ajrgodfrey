@@ -2,5 +2,9 @@
   {
     "package": "BrailleR",
     "oncran": true
+  },
+  {
+    "package": "Dodge",
+    "oncran": true
   }
 ]
