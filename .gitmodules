@@ -8,8 +8,3 @@
 	url = https://github.com/ajrgodfrey/brailler
 	shallow = true
 	registered = true
-[submodule "Dodge"]
-	path = Dodge
-	url = https://github.com/ajrgodfrey/dodge
-	shallow = true
-	registered = true
