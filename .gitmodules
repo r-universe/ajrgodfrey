@@ -13,3 +13,8 @@
 	url = https://github.com/ajrgodfrey/dodge
 	shallow = true
 	registered = true
+[submodule "MindOnStats"]
+	path = MindOnStats
+	url = https://github.com/cran/MindOnStats
+	shallow = true
+	registered = true
