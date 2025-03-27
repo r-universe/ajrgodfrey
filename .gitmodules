@@ -5,9 +5,6 @@
 [submodule "BrailleR"]
 	path = BrailleR
 	url = https://github.com/ajrgodfrey/brailler
-[submodule "Dodge"]
-	path = Dodge
-	url = https://github.com/ajrgodfrey/dodge
 [submodule "MindOnStats"]
 	path = MindOnStats
 	url = https://github.com/cran/MindOnStats
